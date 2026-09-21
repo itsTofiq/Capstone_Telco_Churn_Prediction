@@ -83,7 +83,7 @@ Capstone_Telco_Churn_Prediction/
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/<your-username>/Capstone_Telco_Churn_Prediction.git
+  git clone https://github.com/itsTofiq/Capstone_Telco_Churn_Prediction.git
    cd Capstone_Telco_Churn_Prediction
    ```
 
